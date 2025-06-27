@@ -1,4 +1,4 @@
-# Explainable-Machine-Learning-Approaches-for-Cardiovascular-Disease-Risk-Assessment.
+# Explainable-Machine-Learning-Approaches-for-Cardiovascular-Disease-Risk-Assessment
 
 
 This project implements a **Cardiovascular Disease Prediction Model** using a **Random Forest Classifier**. The model is deployed in a **Streamlit web app**, allowing users to input their health metrics and receive a prediction on their cardiovascular risk. Additionally, we incorporate **Explainable AI (XAI)** using SHAP to provide insights into the model's decision-making process.
